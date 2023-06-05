@@ -1,0 +1,175 @@
+.bg{
+    
+    color: black;
+    margin-top: -47%;
+    margin-left: -100%;
+}
+.ab{
+    margin-top: -516%;
+    margin-left: 700%;
+}
+.ab1{
+    margin-top: -424%;
+    margin-left: 650%;
+
+}
+.ab2{
+    margin-left: 700%;
+    margin-top: -430%;
+}
+.ab3{
+    margin-left: 800%;
+    margin-top: -434%;
+   
+}
+.abbb3{
+    padding: 10px ;
+    border-radius: 60%;
+    background-color: white;
+    display: inline-block;
+
+}
+.bag{
+    transform: translateY(50%);
+}
+.ab4{
+    margin-left: 900%;
+    margin-top: -488%;
+}
+.we{
+    margin-top: -50%;
+    transform: translateX(-700%);
+   
+}
+.container-fluid{
+    color: white;
+   
+}
+a{
+    color: white;
+}
+.open{
+    
+    color: green;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+}
+.par3{
+    display: flex;
+    
+}
+.par3 >div{
+    margin-left: 0%;
+}
+.pp3{
+    transform: translateX(-40%);
+   
+    padding-top: 30%;
+    margin-left: 5%;
+    text-align: center;
+    justify-content: center;
+}
+.img3{
+     margin-left: -42%; 
+}
+.p3{
+    transform: translateX(-40%);
+    margin-top: 30%;
+    text-align: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+.cont{
+    display: flex;
+   
+}
+.cont > div {
+    margin-right: 0%;
+    
+
+}
+.image{
+    width: 100%;
+    height: 100%;
+}
+.h{
+   margin-top: 20%;
+   justify-content: center;
+   text-align: center;
+}
+.titre{
+    padding-left: 60%;
+   
+}
+.ge{
+    border-radius: 100%;
+    width: 20%;
+    margin-left: 40%;
+}
+.pa4{
+    display: flex;
+    margin-top: 5%;
+}
+.pa4 >div{
+    margin-left:4%;
+}
+.c{
+    margin-left: 40%;
+   padding-top: 9%;
+   font-size: 30px;
+   text-transform: uppercase;
+   color: grey;
+   
+    
+}
+.par4{
+    background-color: whitesmoke;
+}
+.pp{
+    margin-top: 10%;
+    text-align: center;
+}
+.t{
+    text-align: center;
+    
+}
+.tt{
+    margin-top: 15%;
+}
+.baba{
+    margin-right: 0;
+    margin-left: 0;
+    
+}
+.sun{
+   transform: translateY(-200%);
+  
+}
+.par1{
+    display: flex;
+   
+   
+}
+.p1{
+    margin-top: 10%;
+}
+.par1 >div{
+   
+    margin-left: 6%;
+    
+}
+.par2{
+    display: flex;
+}
+.par2 > div{
+    margin-left: 0%;
+}
+.pp2{
+    margin-top: 10%;
+   transform: translateX(5%);
+   
+
+}
